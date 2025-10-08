@@ -33,3 +33,5 @@ config.json
 # OS files
 .DS_Store
 Thumbs.db
+# Large dataset
+count.csv
