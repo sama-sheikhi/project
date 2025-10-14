@@ -39,6 +39,7 @@ INSTALLED_APPS = [
     'django.contrib.staticfiles',
     'rest_framework',
     'ped_counting_app',
+    'drf_yasg',
 ]
 
 MIDDLEWARE = [
