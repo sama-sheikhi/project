@@ -1,7 +1,6 @@
 import os
 os.environ["TF_CPP_MIN_LOG_LEVEL"] = "2"
 os.environ["OMP_NUM_THREADS"] = "1"
-
 from django.shortcuts import render
 from django.http import HttpResponse
 import pandas as pd
@@ -17,27 +16,11 @@ from sklearn.linear_model import LinearRegression
 from sklearn.model_selection import train_test_split
 from sklearn.preprocessing import StandardScaler,MinMaxScaler
 from xgboost import XGBRegressor
-
 from sklearn.metrics import mean_absolute_error, mean_squared_error, r2_score
 from rest_framework.decorators import api_view
 from rest_framework.response import Response
 from drf_yasg.utils import swagger_auto_schema
 from drf_yasg import openapi
-
-# @api_view(['GET'])
-# def get_location(request):
-#     locations = Location.objects.all()
-#     serializer = LocationSerializer(locations, many=True)
-#     return Response(serializer.data)
-
-
-# @api_view(['POST'])
-# def add_location(request):
-#     serializer = LocationSerializer(data=request.data)
-#     if serializer.is_valid():
-#         serializer.save()
-#         return Response(serializer.data, status=status.HTTP_201_CREATED)
-#     return Response(serializer.errors, status=status.HTTP_400_BAD_REQUEST)
 
 # ---------------------------------------------------------------------------------------------------------------------
 @swagger_auto_schema(
