@@ -27,18 +27,17 @@ from drf_yasg import openapi
     method='post',
     operation_summary="Upload CSV data",
     operation_description="Upload a CSV file containing pedestrian count data and save it into the database.",
-    manual_parameters=[],
-    request_body=openapi.Schema(
-        type=openapi.TYPE_OBJECT,
-        required=['file'],
-        properties={
-            'file': openapi.Schema(
-                type=openapi.TYPE_STRING,
-                format='binary',
-                description='CSV file containing pedestrian count data'
-            ),
-        },
-    ),
+    # نوع ورودی فرم
+    consumes=["multipart/form-data"],
+    manual_parameters=[
+        openapi.Parameter(
+            name='file',
+            in_=openapi.IN_FORM,
+            type=openapi.TYPE_FILE,
+            required=True,
+            description='CSV file containing pedestrian count data'
+        ),
+    ],
     responses={
         201: openapi.Response(
             description="Data uploaded successfully",
@@ -54,7 +53,6 @@ from drf_yasg import openapi
         ),
     }
 )
-
 @api_view(['POST'])
 def upload_data(request):
     try:
@@ -117,7 +115,6 @@ n_steps = 24
         ),
     }
 )
-
 
 @api_view(['POST'])
 def train_model(request):

@@ -1,0 +1,501 @@
+ID,Date_Time,Year,Month,Mdate,Day,Time,Sensor_ID,Sensor_Name,Hourly_Counts
+285933,"March 19, 2011 03:00:00 PM",2011,March,19,Saturday,15,7,Birrarung Marr,421
+711535,"November 13, 2013 08:00:00 PM",2013,November,13,Wednesday,20,9,Southern Cross Station,186
+3514813,"January 21, 2021 01:00:00 AM",2021,January,21,Thursday,1,62,La Trobe St (North),31
+893090,"July 14, 2014 01:00:00 PM",2014,July,14,Monday,13,22,Flinders St-Elizabeth St (East),2725
+4266717,"April 08, 2022 05:00:00 PM",2022,April,8,Friday,17,63,231 Bourke St,892
+2163689,"March 16, 2018 12:00:00 AM",2018,March,16,Friday,0,46,Pelham St (South),2
+3425081,"November 24, 2020 02:00:00 AM",2020,November,24,Tuesday,2,29,St Kilda Rd-Alexandra Gardens,11
+2993159,"January 20, 2020 08:00:00 AM",2020,January,20,Monday,8,26,QV Market-Elizabeth St (West),505
+1402478,"February 11, 2016 06:00:00 PM",2016,February,11,Thursday,18,12,New Quay,688
+3101464,"April 08, 2020 10:00:00 AM",2020,April,8,Wednesday,10,66,State Library-New,177
+1612336,"September 08, 2016 11:00:00 AM",2016,September,8,Thursday,11,23,Spencer St-Collins St (South),504
+3108965,"April 14, 2020 12:00:00 AM",2020,April,14,Tuesday,0,65,Swanston St - City Square,3
+1542668,"June 29, 2016 05:00:00 PM",2016,June,29,Wednesday,17,39,Alfred Place,463
+812947,"March 31, 2014 11:00:00 AM",2014,March,31,Monday,11,17,Collins Place (South),628
+1694964,"December 03, 2016 08:00:00 PM",2016,December,3,Saturday,20,32,City Square,2475
+2597018,"March 15, 2019 09:00:00 AM",2019,March,15,Friday,9,15,State Library,804
+226326,"October 21, 2010 11:00:00 AM",2010,October,21,Thursday,11,12,New Quay,147
+678806,"September 27, 2013 10:00:00 PM",2013,September,27,Friday,22,18,Collins Place (North),99
+2658886,"May 05, 2019 07:00:00 AM",2019,May,5,Sunday,7,28,The Arts Centre,187
+2547800,"February 02, 2019 01:00:00 AM",2019,February,2,Saturday,1,21,Bourke St-Russell St (West),464
+2011823,"November 01, 2017 09:00:00 AM",2017,November,1,Wednesday,9,18,Collins Place (North),1051
+4038412,"December 14, 2021 01:00:00 AM",2021,December,14,Tuesday,1,36,Queen St (West),6
+2536179,"January 23, 2019 02:00:00 AM",2019,January,23,Wednesday,2,10,Victoria Point,1
+1133440,"May 07, 2015 11:00:00 AM",2015,May,7,Thursday,11,10,Victoria Point,247
+1705531,"December 14, 2016 11:00:00 PM",2016,December,14,Wednesday,23,15,State Library,406
+1344724,"December 15, 2015 09:00:00 AM",2015,December,15,Tuesday,9,31,Lygon St (West),167
+3028072,"February 15, 2020 03:00:00 AM",2020,February,15,Saturday,3,59,Swanston St - RMIT Building 80,2
+853465,"May 24, 2014 11:00:00 PM",2014,May,24,Saturday,23,11,Waterfront City,71
+889021,"July 09, 2014 06:00:00 AM",2014,July,9,Wednesday,6,17,Collins Place (South),324
+2103191,"January 22, 2018 01:00:00 AM",2018,January,22,Monday,1,27,QV Market-Peel St,5
+548229,"December 02, 2012 01:00:00 AM",2012,December,2,Sunday,1,2,Bourke Street Mall (South),354
+3331813,"September 20, 2020 12:00:00 PM",2020,September,20,Sunday,12,18,Collins Place (North),20
+4481546,"September 09, 2022 09:00:00 PM",2022,September,9,Friday,21,20,Chinatown-Lt Bourke St (South),724
+3507635,"January 16, 2021 12:00:00 PM",2021,January,16,Saturday,12,8,Webb Bridge,234
+1557374,"July 14, 2016 09:00:00 AM",2016,July,14,Thursday,9,33,Flinders St-Spring St (West),448
+1138033,"May 12, 2015 01:00:00 PM",2015,May,12,Tuesday,13,20,Chinatown-Lt Bourke St (South),639
+147908,"April 18, 2010 03:00:00 PM",2010,April,18,Sunday,15,14,Sandridge Bridge,542
+4259416,"April 04, 2022 12:00:00 PM",2022,April,4,Monday,12,41,Flinders La-Swanston St (West),2508
+2049977,"December 05, 2017 10:00:00 PM",2017,December,5,Tuesday,22,15,State Library,606
+1771306,"February 24, 2017 04:00:00 PM",2017,February,24,Friday,16,43,Monash Rd-Swanston St (West),427
+2828116,"September 15, 2019 04:00:00 PM",2019,September,15,Sunday,16,8,Webb Bridge,196
+2494810,"December 19, 2018 08:00:00 AM",2018,December,19,Wednesday,8,12,New Quay,355
+2852411,"October 05, 2019 11:00:00 AM",2019,October,5,Saturday,11,27,QV Market-Peel St,486
+939613,"September 13, 2014 07:00:00 PM",2014,September,13,Saturday,19,8,Webb Bridge,76
+1158198,"June 03, 2015 12:00:00 AM",2015,June,3,Wednesday,0,23,Spencer St-Collins St (South),14
+1489870,"May 09, 2016 12:00:00 AM",2016,May,9,Monday,0,9,Southern Cross Station,9
+1835513,"May 05, 2017 06:00:00 AM",2017,May,5,Friday,6,9,Southern Cross Station,542
+1582880,"August 08, 2016 06:00:00 PM",2016,August,8,Monday,18,7,Birrarung Marr,460
+3382185,"October 25, 2020 01:00:00 PM",2020,October,25,Sunday,13,19,Chinatown-Swanston St (North),304
+329624,"July 04, 2011 05:00:00 PM",2011,July,4,Monday,17,8,Webb Bridge,383
+179496,"June 30, 2010 07:00:00 PM",2010,June,30,Wednesday,19,18,Collins Place (North),334
+1976397,"September 29, 2017 02:00:00 PM",2017,September,29,Friday,14,37,Lygon St (East),266
+596385,"March 24, 2013 11:00:00 PM",2013,March,24,Sunday,23,2,Bourke Street Mall (South),121
+1827398,"April 26, 2017 07:00:00 AM",2017,April,26,Wednesday,7,35,Southbank,1348
+586932,"March 03, 2013 01:00:00 AM",2013,March,3,Sunday,1,17,Collins Place (South),119
+1478629,"April 27, 2016 10:00:00 PM",2016,April,27,Wednesday,22,36,Queen St (West),92
+2743635,"July 12, 2019 01:00:00 AM",2019,July,12,Friday,1,36,Queen St (West),44
+3731540,"June 15, 2021 03:00:00 PM",2021,June,15,Tuesday,15,21,Bourke St-Russell St (West),351
+4029,"May 12, 2009 04:00:00 AM",2009,May,12,Tuesday,4,12,New Quay,0
+4273483,"April 22, 2022 03:00:00 PM",2022,April,22,Friday,15,76,Macaulay Rd - Bellair St,111
+3389240,"October 30, 2020 09:00:00 AM",2020,October,30,Friday,9,51,QVM-Franklin St (North),92
+322440,"June 17, 2011 02:00:00 AM",2011,June,17,Friday,2,15,State Library,60
+2151804,"March 05, 2018 01:00:00 PM",2018,March,5,Monday,13,11,Waterfront City,253
+1893592,"July 08, 2017 07:00:00 AM",2017,July,8,Saturday,7,43,Monash Rd-Swanston St (West),13
+2353910,"August 25, 2018 08:00:00 PM",2018,August,25,Saturday,20,3,Melbourne Central,2508
+914003,"August 11, 2014 10:00:00 PM",2014,August,11,Monday,22,31,Lygon St (West),177
+340901,"August 01, 2011 08:00:00 AM",2011,August,1,Monday,8,14,Sandridge Bridge,909
+1224680,"August 11, 2015 09:00:00 AM",2015,August,11,Tuesday,9,11,Waterfront City,22
+920481,"August 20, 2014 09:00:00 AM",2014,August,20,Wednesday,9,12,New Quay,138
+3805855,"July 30, 2021 02:00:00 AM",2021,July,30,Friday,2,8,Webb Bridge,1
+3512239,"January 19, 2021 11:00:00 AM",2021,January,19,Tuesday,11,17,Collins Place (South),294
+4397985,"July 30, 2022 04:00:00 AM",2022,July,30,Saturday,4,44,Tin Alley-Swanston St (West),0
+3328004,"September 17, 2020 10:00:00 PM",2020,September,17,Thursday,22,44,Tin Alley-Swanston St (West),0
+3068832,"March 15, 2020 09:00:00 PM",2020,March,15,Sunday,21,17,Collins Place (South),112
+2557252,"February 10, 2019 06:00:00 AM",2019,February,10,Sunday,6,17,Collins Place (South),29
+4199648,"March 05, 2022 06:00:00 AM",2022,March,5,Saturday,6,14,Sandridge Bridge,46
+1759480,"February 11, 2017 07:00:00 PM",2017,February,11,Saturday,19,44,Tin Alley-Swanston St (West),59
+4285769,"May 19, 2022 12:00:00 PM",2022,May,19,Thursday,12,9,Southern Cross Station,764
+976302,"October 30, 2014 05:00:00 PM",2014,October,30,Thursday,17,20,Chinatown-Lt Bourke St (South),581
+3109587,"April 14, 2020 12:00:00 PM",2020,April,14,Tuesday,12,2,Bourke Street Mall (South),393
+2226735,"May 10, 2018 12:00:00 AM",2018,May,10,Thursday,0,17,Collins Place (South),29
+4510651,"September 12, 2022 10:00:00 PM",2022,September,12,Monday,22,75,Spring St - Flinders St (West),0
+2850158,"October 03, 2019 04:00:00 PM",2019,October,3,Thursday,16,9,Southern Cross Station,2715
+444118,"April 04, 2012 03:00:00 AM",2012,April,4,Wednesday,3,16,Australia on Collins,8
+2705876,"June 12, 2019 02:00:00 AM",2019,June,12,Wednesday,2,24,Spencer St-Collins St (North),11
+3485862,"January 02, 2021 07:00:00 PM",2021,January,2,Saturday,19,47,Melbourne Central-Elizabeth St (East),529
+2265213,"June 12, 2018 03:00:00 PM",2018,June,12,Tuesday,15,49,QVM-Therry St (South),256
+496609,"August 03, 2012 04:00:00 PM",2012,August,3,Friday,16,1,Bourke Street Mall (North),2932
+4225228,"March 31, 2022 01:00:00 AM",2022,March,31,Thursday,1,72,Flinders St - ACMI,75
+2820454,"September 09, 2019 05:00:00 PM",2019,September,9,Monday,17,27,QV Market-Peel St,202
+276778,"February 24, 2011 06:00:00 PM",2011,February,24,Thursday,18,12,New Quay,519
+3939619,"October 18, 2021 01:00:00 AM",2021,October,18,Monday,1,24,Spencer St-Collins St (North),13
+3763217,"July 04, 2021 01:00:00 PM",2021,July,4,Sunday,13,5,Princes Bridge,2609
+4488054,"September 16, 2022 11:00:00 PM",2022,September,16,Friday,23,30,Lonsdale St (South),739
+3481172,"December 30, 2020 08:00:00 PM",2020,December,30,Wednesday,20,61,Swanston St - RMIT Building 14,224
+3042831,"February 25, 2020 10:00:00 PM",2020,February,25,Tuesday,22,55,Elizabeth St-La Trobe St (East),687
+2086219,"January 06, 2018 04:00:00 PM",2018,January,6,Saturday,16,29,St Kilda Rd-Alexandra Gardens,212
+3102528,"April 09, 2020 05:00:00 AM",2020,April,9,Thursday,5,66,State Library-New,21
+3508520,"January 17, 2021 01:00:00 AM",2021,January,17,Sunday,1,58,Bourke St - Spencer St (North),142
+2489656,"December 15, 2018 03:00:00 AM",2018,December,15,Saturday,3,9,Southern Cross Station,10
+751003,"January 07, 2014 11:00:00 PM",2014,January,7,Tuesday,23,29,St Kilda Rd-Alexandra Gardens,42
+2125952,"February 11, 2018 02:00:00 AM",2018,February,11,Sunday,2,34,Flinders St-Spark La,22
+3939349,"October 17, 2021 09:00:00 PM",2021,October,17,Sunday,21,30,Lonsdale St (South),34
+4424962,"August 18, 2022 04:00:00 AM",2022,August,18,Thursday,4,66,State Library - New,15
+3629695,"April 05, 2021 04:00:00 AM",2021,April,5,Monday,4,52,Elizabeth St-Lonsdale St (South),33
+3453612,"December 13, 2020 03:00:00 AM",2020,December,13,Sunday,3,17,Collins Place (South),19
+1690001,"November 28, 2016 01:00:00 PM",2016,November,28,Monday,13,9,Southern Cross Station,1275
+3472690,"December 25, 2020 09:00:00 AM",2020,December,25,Friday,9,54,Lincoln-Swanston(West),6
+1775948,"March 01, 2017 03:00:00 PM",2017,March,1,Wednesday,15,44,Tin Alley-Swanston St (West),417
+3430629,"November 27, 2020 10:00:00 PM",2020,November,27,Friday,22,45,Little Collins St-Swanston St (East),772
+1641675,"October 07, 2016 10:00:00 PM",2016,October,7,Friday,22,42,Grattan St-Swanston St (West),117
+1380494,"January 20, 2016 10:00:00 PM",2016,January,20,Wednesday,22,12,New Quay,220
+799626,"March 13, 2014 05:00:00 AM",2014,March,13,Thursday,5,10,Victoria Point,20
+115446,"February 02, 2010 12:00:00 PM",2010,February,2,Tuesday,12,6,Flinders Street Station Underpass,1731
+4131525,"January 07, 2022 08:00:00 PM",2022,January,7,Friday,20,78,Harbour Esplanade (West) - Bike Path,47
+2425119,"October 22, 2018 02:00:00 PM",2018,October,22,Monday,14,43,Monash Rd-Swanston St (West),333
+4132766,"January 28, 2022 01:00:00 PM",2022,January,28,Friday,13,77,Harbour Esplanade (West) - Ped Path,94
+1312816,"November 12, 2015 03:00:00 PM",2015,November,12,Thursday,15,11,Waterfront City,108
+2719059,"June 22, 2019 01:00:00 PM",2019,June,22,Saturday,13,37,Lygon St (East),258
+1484440,"May 03, 2016 05:00:00 PM",2016,May,3,Tuesday,17,35,Southbank,3069
+3922446,"October 07, 2021 07:00:00 PM",2021,October,7,Thursday,19,72,Flinders St-ACMI,128
+1303302,"November 02, 2015 12:00:00 PM",2015,November,2,Monday,12,4,Town Hall (West),5339
+1215542,"August 01, 2015 05:00:00 PM",2015,August,1,Saturday,17,15,State Library,1959
+4336350,"June 30, 2022 01:00:00 AM",2022,June,30,Thursday,1,8,Webb Bridge,1
+1390462,"January 30, 2016 08:00:00 PM",2016,January,30,Saturday,20,8,Webb Bridge,308
+4357365,"June 12, 2022 02:00:00 PM",2022,June,12,Sunday,14,54,Lincoln-Swanston(West),188
+4142695,"February 17, 2022 06:00:00 AM",2022,February,17,Thursday,6,24,Spencer St-Collins St (North),320
+3844002,"August 22, 2021 03:00:00 AM",2021,August,22,Sunday,3,57,Bourke St Bridge,0
+4193888,"March 13, 2022 06:00:00 AM",2022,March,13,Sunday,6,8,Webb Bridge,21
+4172551,"February 08, 2022 06:00:00 AM",2022,February,8,Tuesday,6,68,Flinders Ln - Degraves St (North),19
+1194178,"July 09, 2015 09:00:00 PM",2015,July,9,Thursday,21,25,Melbourne Convention Exhibition Centre,275
+1113436,"April 15, 2015 03:00:00 PM",2015,April,15,Wednesday,15,34,Flinders St-Spark La,217
+3052951,"March 04, 2020 08:00:00 AM",2020,March,4,Wednesday,8,19,Chinatown-Swanston St (North),168
+1976053,"September 29, 2017 06:00:00 AM",2017,September,29,Friday,6,46,Pelham St (South),9
+1746741,"January 28, 2017 02:00:00 PM",2017,January,28,Saturday,14,24,Spencer St-Collins St (North),991
+2211629,"April 26, 2018 07:00:00 PM",2018,April,26,Thursday,19,27,QV Market-Peel St,101
+3356803,"October 07, 2020 08:00:00 PM",2020,October,7,Wednesday,20,4,Town Hall (West),92
+3932390,"October 13, 2021 05:00:00 PM",2021,October,13,Wednesday,17,78,Harbour Esplanade (West) - Bike Path,88
+2416954,"October 15, 2018 09:00:00 PM",2018,October,15,Monday,21,50,Faraday St-Lygon St (West),252
+1500642,"May 19, 2016 11:00:00 AM",2016,May,19,Thursday,11,24,Spencer St-Collins St (North),1436
+4457427,"August 08, 2022 09:00:00 PM",2022,August,8,Monday,21,65,Swanston St - City Square,128
+3957127,"October 28, 2021 02:00:00 PM",2021,October,28,Thursday,14,40,Lonsdale St-Spring St (West),130
+3180844,"June 04, 2020 04:00:00 AM",2020,June,4,Thursday,4,21,Bourke St-Russell St (West),8
+3158055,"May 19, 2020 04:00:00 AM",2020,May,19,Tuesday,4,9,Southern Cross Station,2
+33150,"July 23, 2009 11:00:00 AM",2009,July,23,Thursday,11,12,New Quay,117
+3452906,"December 12, 2020 03:00:00 PM",2020,December,12,Saturday,15,73,Bourke St - Spencer St (South),119
+3324013,"September 15, 2020 06:00:00 AM",2020,September,15,Tuesday,6,5,Princes Bridge,118
+2315381,"July 25, 2018 06:00:00 AM",2018,July,25,Wednesday,6,41,Flinders La-Swanston St (West),540
+2555796,"February 08, 2019 11:00:00 PM",2019,February,8,Friday,23,54,Lincoln-Swanston (West),72
+473826,"June 11, 2012 10:00:00 PM",2012,June,11,Monday,22,6,Flinders Street Station Underpass,343
+2903388,"November 13, 2019 09:00:00 PM",2019,November,13,Wednesday,21,45,Little Collins St-Swanston St (East),975
+2441721,"November 05, 2018 09:00:00 AM",2018,November,5,Monday,9,34,Flinders St-Spark La,191
+3805456,"July 29, 2021 08:00:00 PM",2021,July,29,Thursday,20,30,Lonsdale St (South),278
+477147,"June 19, 2012 02:00:00 PM",2012,June,19,Tuesday,14,15,State Library,1619
+2655111,"May 02, 2019 06:00:00 AM",2019,May,2,Thursday,6,54,Lincoln-Swanston (West),34
+2126336,"February 11, 2018 10:00:00 AM",2018,February,11,Sunday,10,34,Flinders St-Spark La,80
+1225184,"August 11, 2015 10:00:00 PM",2015,August,11,Tuesday,22,8,Webb Bridge,31
+1136760,"May 11, 2015 03:00:00 AM",2015,May,11,Monday,3,25,Melbourne Convention Exhibition Centre,11
+4274924,"April 22, 2022 04:00:00 PM",2022,April,22,Friday,16,77,Harbour Esplanade (West) - Ped Path,349
+493805,"July 28, 2012 04:00:00 AM",2012,July,28,Saturday,4,5,Princes Bridge,66
+2642590,"April 22, 2019 06:00:00 AM",2019,April,22,Monday,6,6,Flinders Street Station Underpass,148
+2788741,"August 15, 2019 11:00:00 PM",2019,August,15,Thursday,23,59,Swanston St - RMIT Building 80,48
+4354042,"June 24, 2022 03:00:00 AM",2022,June,24,Friday,3,41,Flinders La-Swanston St (West),198
+3906946,"September 28, 2021 03:00:00 PM",2021,September,28,Tuesday,15,21,Bourke St-Russell St (West),275
+1352052,"December 22, 2015 08:00:00 PM",2015,December,22,Tuesday,20,20,Chinatown-Lt Bourke St (South),882
+3554688,"February 15, 2021 04:00:00 PM",2021,February,15,Monday,16,39,Alfred Place,30
+3268447,"August 06, 2020 04:00:00 PM",2020,August,6,Thursday,16,39,Alfred Place,20
+3428981,"November 26, 2020 07:00:00 PM",2020,November,26,Thursday,19,29,St Kilda Rd-Alexandra Gardens,196
+3362738,"October 12, 2020 12:00:00 AM",2020,October,12,Monday,0,49,QVM-Therry St (South),55
+985169,"November 11, 2014 01:00:00 AM",2014,November,11,Tuesday,1,21,Bourke St-Russell St (West),66
+2322392,"July 31, 2018 03:00:00 AM",2018,July,31,Tuesday,3,2,Bourke Street Mall (South),17
+4123904,"January 31, 2022 07:00:00 AM",2022,January,31,Monday,7,64,Royal Pde - Grattan St,0
+298674,"April 19, 2011 08:00:00 PM",2011,April,19,Tuesday,20,15,State Library,1018
+2918310,"November 25, 2019 06:00:00 AM",2019,November,25,Monday,6,31,Lygon St (West),43
+3491707,"January 06, 2021 11:00:00 AM",2021,January,6,Wednesday,11,57,Bourke St Bridge,136
+1107826,"April 09, 2015 05:00:00 AM",2015,April,9,Thursday,5,10,Victoria Point,21
+3969169,"November 04, 2021 05:00:00 PM",2021,November,4,Thursday,17,5,Princes Bridge,783
+2406435,"October 07, 2018 07:00:00 AM",2018,October,7,Sunday,7,35,Southbank,351
+2909045,"November 18, 2019 04:00:00 AM",2019,November,18,Monday,4,29,St Kilda Rd-Alexandra Gardens,6
+2097289,"January 16, 2018 05:00:00 PM",2018,January,16,Tuesday,17,10,Victoria Point,829
+3397230,"November 04, 2020 11:00:00 PM",2020,November,4,Wednesday,23,9,Southern Cross Station,6
+3847359,"August 24, 2021 05:00:00 AM",2021,August,24,Tuesday,5,15,State Library,13
+604287,"April 12, 2013 06:00:00 AM",2013,April,12,Friday,6,2,Bourke Street Mall (South),95
+4478376,"September 27, 2022 07:00:00 PM",2022,September,27,Tuesday,19,12,New Quay,201
+2186330,"April 04, 2018 07:00:00 PM",2018,April,4,Wednesday,19,33,Flinders St-Spring St (West),161
+4328957,"June 22, 2022 12:00:00 AM",2022,June,22,Wednesday,0,1,Bourke Street Mall (North),19
+2337088,"August 12, 2018 01:00:00 AM",2018,August,12,Sunday,1,15,State Library,180
+1771927,"February 25, 2017 08:00:00 AM",2017,February,25,Saturday,8,39,Alfred Place,100
+2978371,"January 09, 2020 01:00:00 PM",2020,January,9,Thursday,13,6,Flinders Street Station Underpass,2605
+1915062,"July 30, 2017 06:00:00 AM",2017,July,30,Sunday,6,10,Victoria Point,16
+3957161,"October 28, 2021 02:00:00 PM",2021,October,28,Thursday,14,75,Spring St- Flinders St (West),43
+502010,"August 16, 2012 04:00:00 AM",2012,August,16,Thursday,4,2,Bourke Street Mall (South),8
+3847872,"August 24, 2021 12:00:00 PM",2021,August,24,Tuesday,12,50,Faraday St-Lygon St (West),144
+2191950,"April 09, 2018 02:00:00 PM",2018,April,9,Monday,14,17,Collins Place (South),866
+4442840,"August 19, 2022 02:00:00 AM",2022,August,19,Friday,2,36,Queen St (West),9
+2537822,"January 24, 2019 11:00:00 AM",2019,January,24,Thursday,11,56,Lonsdale St - Elizabeth St (North),508
+3455359,"December 14, 2020 06:00:00 AM",2020,December,14,Monday,6,20,Chinatown-Lt Bourke St (South),16
+3642624,"April 13, 2021 06:00:00 AM",2021,April,13,Tuesday,6,5,Princes Bridge,286
+1196624,"July 12, 2015 12:00:00 PM",2015,July,12,Sunday,12,12,New Quay,75
+295251,"April 11, 2011 11:00:00 AM",2011,April,11,Monday,11,9,Southern Cross Station,356
+3773560,"July 10, 2021 05:00:00 PM",2021,July,10,Saturday,17,35,Southbank,2744
+1711850,"December 21, 2016 02:00:00 PM",2016,December,21,Wednesday,14,25,Melbourne Convention Exhibition Centre,1171
+3394549,"November 03, 2020 02:00:00 AM",2020,November,3,Tuesday,2,34,Flinders St-Spark La,1
+1883014,"June 26, 2017 06:00:00 PM",2017,June,26,Monday,18,1,Bourke Street Mall (North),2266
+1263820,"September 21, 2015 03:00:00 PM",2015,September,21,Monday,15,24,Spencer St-Collins St (North),1970
+4091816,"January 16, 2022 07:00:00 AM",2022,January,16,Sunday,7,23,Spencer St-Collins St (South),24
+498298,"August 07, 2012 01:00:00 PM",2012,August,7,Tuesday,13,16,Australia on Collins,2675
+3819242,"August 07, 2021 06:00:00 AM",2021,August,7,Saturday,6,72,Flinders St-ACMI,25
+1254541,"September 11, 2015 11:00:00 PM",2015,September,11,Friday,23,25,Melbourne Convention Exhibition Centre,302
+2859650,"October 11, 2019 03:00:00 AM",2019,October,11,Friday,3,47,Melbourne Central-Elizabeth St (East),81
+478262,"June 22, 2012 04:00:00 AM",2012,June,22,Friday,4,14,Sandridge Bridge,61
+1694484,"December 03, 2016 08:00:00 AM",2016,December,3,Saturday,8,18,Collins Place (North),96
+3852167,"August 27, 2021 03:00:00 AM",2021,August,27,Friday,3,27,QV Market-Peel St,0
+4161964,"February 08, 2022 03:00:00 AM",2022,February,8,Tuesday,3,35,Southbank,21
+2955805,"December 23, 2019 06:00:00 PM",2019,December,23,Monday,18,61,Swanston St - RMIT Building 14,561
+2537982,"January 24, 2019 03:00:00 PM",2019,January,24,Thursday,15,17,Collins Place (South),728
+1246887,"September 04, 2015 12:00:00 AM",2015,September,4,Friday,0,9,Southern Cross Station,23
+747391,"January 03, 2014 07:00:00 AM",2014,January,3,Friday,7,1,Bourke Street Mall (North),189
+2135548,"February 19, 2018 11:00:00 AM",2018,February,19,Monday,11,29,St Kilda Rd-Alexandra Gardens,604
+3954240,"October 26, 2021 09:00:00 PM",2021,October,26,Tuesday,21,5,Princes Bridge,253
+37871,"August 04, 2009 01:00:00 AM",2009,August,4,Tuesday,1,6,Flinders Street Station Underpass,33
+427549,"February 25, 2012 07:00:00 PM",2012,February,25,Saturday,19,7,Birrarung Marr,153
+3817338,"August 06, 2021 03:00:00 AM",2021,August,6,Friday,3,18,Collins Place (North),2
+1837537,"May 07, 2017 11:00:00 AM",2017,May,7,Sunday,11,22,Flinders St-Elizabeth St (East),1805
+1137220,"May 11, 2015 03:00:00 PM",2015,May,11,Monday,15,29,St Kilda Rd-Alexandra Gardens,385
+705807,"November 05, 2013 09:00:00 PM",2013,November,5,Tuesday,21,11,Waterfront City,92
+3887854,"September 17, 2021 09:00:00 AM",2021,September,17,Friday,9,57,Bourke St Bridge,104
+2730715,"July 01, 2019 11:00:00 PM",2019,July,1,Monday,23,39,Alfred Place,43
+3519364,"January 23, 2021 09:00:00 PM",2021,January,23,Saturday,21,56,Lonsdale St - Elizabeth St (North),285
+1996484,"October 18, 2017 07:00:00 AM",2017,October,18,Wednesday,7,46,Pelham St (South),102
+2005271,"October 26, 2017 09:00:00 AM",2017,October,26,Thursday,9,29,St Kilda Rd-Alexandra Gardens,388
+4511332,"September 11, 2022 07:00:00 AM",2022,September,11,Sunday,7,76,Macaulay Rd - Bellair St,6
+1705739,"December 15, 2016 04:00:00 AM",2016,December,15,Thursday,4,31,Lygon St (West),7
+377107,"October 29, 2011 03:00:00 AM",2011,October,29,Saturday,3,17,Collins Place (South),22
+1762310,"February 14, 2017 11:00:00 PM",2017,February,14,Tuesday,23,36,Queen St (West),59
+1166410,"June 11, 2015 08:00:00 AM",2015,June,11,Thursday,8,36,Queen St (West),720
+2440661,"November 04, 2018 12:00:00 PM",2018,November,4,Sunday,12,47,Melbourne Central-Elizabeth St (East),1555
+1995043,"October 16, 2017 11:00:00 PM",2017,October,16,Monday,23,41,Flinders La-Swanston St (West),517
+3714738,"June 05, 2021 11:00:00 AM",2021,June,5,Saturday,11,12,New Quay,285
+1063024,"February 17, 2015 08:00:00 AM",2015,February,17,Tuesday,8,22,Flinders St-Elizabeth St (East),2607
+2895858,"November 08, 2019 02:00:00 AM",2019,November,8,Friday,2,5,Princes Bridge,37
+3461922,"December 18, 2020 11:00:00 AM",2020,December,18,Friday,11,68,Flinders Ln -Degraves St (North),422
+1202548,"July 18, 2015 08:00:00 PM",2015,July,18,Saturday,20,8,Webb Bridge,43
+4442638,"August 10, 2022 04:00:00 PM",2022,August,10,Wednesday,16,36,Queen St (West),342
+1751237,"February 02, 2017 12:00:00 PM",2017,February,2,Thursday,12,37,Lygon St (East),363
+3069959,"March 16, 2020 04:00:00 PM",2020,March,16,Monday,16,15,State Library,1600
+2586732,"March 06, 2019 07:00:00 PM",2019,March,6,Wednesday,19,23,Spencer St-Collins St (South),316
+1824490,"April 23, 2017 05:00:00 AM",2017,April,23,Sunday,5,11,Waterfront City,1
+3789196,"July 20, 2021 03:00:00 AM",2021,July,20,Tuesday,3,3,Melbourne Central,2
+3960818,"October 30, 2021 07:00:00 PM",2021,October,30,Saturday,19,8,Webb Bridge,126
+3371872,"October 18, 2020 11:00:00 AM",2020,October,18,Sunday,11,64,Royal Pde-Grattan St,62
+1467798,"April 16, 2016 11:00:00 PM",2016,April,16,Saturday,23,12,New Quay,94
+1813200,"April 10, 2017 09:00:00 PM",2017,April,10,Monday,21,21,Bourke St-Russell St (West),570
+2812046,"September 03, 2019 05:00:00 AM",2019,September,3,Tuesday,5,46,Pelham St (S),9
+1048906,"February 01, 2015 12:00:00 AM",2015,February,1,Sunday,0,25,Melbourne Convention Exhibition Centre,143
+4179754,"February 28, 2022 09:00:00 AM",2022,February,28,Monday,9,79,Flinders St (South),425
+756352,"January 15, 2014 01:00:00 AM",2014,January,15,Wednesday,1,10,Victoria Point,4
+2130255,"February 14, 2018 08:00:00 PM",2018,February,14,Wednesday,20,15,State Library,1414
+3436747,"December 02, 2020 02:00:00 AM",2020,December,2,Wednesday,2,37,Lygon St (East),3
+1536131,"June 23, 2016 05:00:00 AM",2016,June,23,Thursday,5,36,Queen St (West),13
+1164593,"June 09, 2015 12:00:00 PM",2015,June,9,Tuesday,12,22,Flinders St-Elizabeth St (East),2637
+3373973,"October 19, 2020 11:00:00 PM",2020,October,19,Monday,23,3,Melbourne Central,48
+1888931,"July 03, 2017 09:00:00 AM",2017,July,3,Monday,9,27,QV Market-Peel St,79
+982049,"November 07, 2014 03:00:00 AM",2014,November,7,Friday,3,1,Bourke Street Mall (North),25
+4506123,"September 04, 2022 06:00:00 AM",2022,September,4,Sunday,6,69,Flinders Ln - Degraves St (Crossing),3
+4304218,"May 13, 2022 05:00:00 AM",2022,May,13,Friday,5,44,Tin Alley-Swanston St (West),7
+310284,"May 18, 2011 07:00:00 AM",2011,May,18,Wednesday,7,14,Sandridge Bridge,397
+2076873,"December 29, 2017 08:00:00 AM",2017,December,29,Friday,8,8,Webb Bridge,152
+2703079,"June 09, 2019 08:00:00 PM",2019,June,9,Sunday,20,37,Lygon St (East),380
+1134823,"May 09, 2015 12:00:00 AM",2015,May,9,Saturday,0,26,QV Market-Elizabeth St (West),237
+1929858,"August 14, 2017 10:00:00 PM",2017,August,14,Monday,22,35,Southbank,609
+3960344,"October 30, 2021 12:00:00 PM",2021,October,30,Saturday,12,34,Flinders St-Spark La,156
+1533948,"June 21, 2016 01:00:00 AM",2016,June,21,Tuesday,1,31,Lygon St (West),26
+162519,"May 22, 2010 11:00:00 AM",2010,May,22,Saturday,11,9,Southern Cross Station,93
+1235728,"August 23, 2015 07:00:00 AM",2015,August,23,Sunday,7,1,Bourke Street Mall (North),86
+2397217,"September 29, 2018 08:00:00 PM",2018,September,29,Saturday,20,46,Pelham St (South),54
+1667282,"November 04, 2016 02:00:00 AM",2016,November,4,Friday,2,28,The Arts Centre,31
+3146745,"May 11, 2020 04:00:00 AM",2020,May,11,Monday,4,18,Collins Place (North),5
+943486,"September 18, 2014 08:00:00 PM",2014,September,18,Thursday,20,9,Southern Cross Station,139
+1712223,"December 21, 2016 11:00:00 PM",2016,December,21,Wednesday,23,38,Flinders St-Swanston St (West),1591
+220250,"October 06, 2010 02:00:00 PM",2010,October,6,Wednesday,14,4,Town Hall (West),2846
+826368,"April 18, 2014 04:00:00 AM",2014,April,18,Friday,4,23,Spencer St-Collins St (South),34
+3829051,"August 13, 2021 04:00:00 AM",2021,August,13,Friday,4,19,Chinatown-Swanston St (North),0
+712897,"November 15, 2013 07:00:00 PM",2013,November,15,Friday,19,4,Town Hall (West),2775
+1525305,"June 12, 2016 11:00:00 AM",2016,June,12,Sunday,11,40,Lonsdale St-Spring St (West),284
+4183139,"March 30, 2022 09:00:00 AM",2022,March,30,Wednesday,9,4,Town Hall (West),976
+1844163,"May 14, 2017 05:00:00 PM",2017,May,14,Sunday,17,37,Lygon St (East),388
+1656740,"October 23, 2016 10:00:00 PM",2016,October,23,Sunday,22,34,Flinders St-Spark La,33
+4301593,"May 27, 2022 08:00:00 PM",2022,May,27,Friday,20,29,St Kilda Rd-Alexandra Gardens,166
+3240938,"July 17, 2020 09:00:00 AM",2020,July,17,Friday,9,3,Melbourne Central,197
+1601485,"August 28, 2016 09:00:00 AM",2016,August,28,Sunday,9,28,The Arts Centre,704
+1208231,"July 24, 2015 09:00:00 PM",2015,July,24,Friday,21,39,Alfred Place,97
+15814,"June 10, 2009 11:00:00 PM",2009,June,10,Wednesday,23,16,Australia on Collins,64
+3981411,"November 11, 2021 11:00:00 PM",2021,November,11,Thursday,23,21,Bourke St-Russell St (West),222
+4242662,"April 26, 2022 10:00:00 AM",2022,April,26,Tuesday,10,8,Webb Bridge,199
+3354212,"October 05, 2020 10:00:00 PM",2020,October,5,Monday,22,63,231 Bourke St,35
+3279857,"August 15, 2020 07:00:00 AM",2020,August,15,Saturday,7,41,Flinders La-Swanston St (West),119
+3505695,"January 15, 2021 06:00:00 AM",2021,January,15,Friday,6,20,Chinatown-Lt Bourke St (South),21
+2217545,"May 02, 2018 12:00:00 AM",2018,May,2,Wednesday,0,41,Flinders La-Swanston St (West),255
+1969207,"September 22, 2017 10:00:00 PM",2017,September,22,Friday,22,4,Town Hall (West),1545
+3484331,"January 01, 2021 08:00:00 PM",2021,January,1,Friday,20,58,Bourke St - Spencer St (North),239
+2883424,"October 29, 2019 12:00:00 PM",2019,October,29,Tuesday,12,4,Town Hall (West),3081
+2554914,"February 08, 2019 05:00:00 AM",2019,February,8,Friday,5,33,Flinders St-Spring St (West),13
+4101766,"January 31, 2022 09:00:00 PM",2022,January,31,Monday,21,27,QV Market-Peel St,69
+2924590,"November 30, 2019 03:00:00 AM",2019,November,30,Saturday,3,6,Flinders Street Station Underpass,160
+3300704,"August 30, 2020 09:00:00 AM",2020,August,30,Sunday,9,53,Collins St (North),26
+3963610,"November 01, 2021 10:00:00 AM",2021,November,1,Monday,10,71,Westwood Place,42
+1628900,"September 24, 2016 09:00:00 PM",2016,September,24,Saturday,21,39,Alfred Place,114
+956278,"October 05, 2014 05:00:00 AM",2014,October,5,Sunday,5,13,Flagstaff Station,15
+2671109,"May 15, 2019 04:00:00 AM",2019,May,15,Wednesday,4,57,Bourke St Bridge,5
+1382929,"January 23, 2016 08:00:00 AM",2016,January,23,Saturday,8,37,Lygon St (East),71
+3086880,"March 28, 2020 06:00:00 PM",2020,March,28,Saturday,18,59,Swanston St - RMIT Building 80,72
+1775516,"March 01, 2017 04:00:00 AM",2017,March,1,Wednesday,4,40,Lonsdale St-Spring St (West),8
+1098283,"March 29, 2015 06:00:00 AM",2015,March,29,Sunday,6,1,Bourke Street Mall (North),51
+2160454,"March 13, 2018 04:00:00 AM",2018,March,13,Tuesday,4,1,Bourke Street Mall (North),22
+492618,"July 25, 2012 10:00:00 AM",2012,July,25,Wednesday,10,6,Flinders Street Station Underpass,1093
+4421774,"August 31, 2022 08:00:00 AM",2022,August,31,Wednesday,8,59,Swanston St - RMIT Building 80,340
+3501570,"January 12, 2021 03:00:00 PM",2021,January,12,Tuesday,15,65,Swanston St - City Square,484
+1960954,"September 15, 2017 02:00:00 AM",2017,September,15,Friday,2,1,Bourke Street Mall (North),55
+2333353,"August 09, 2018 12:00:00 AM",2018,August,9,Thursday,0,1,Bourke Street Mall (North),110
+1773459,"February 27, 2017 12:00:00 AM",2017,February,27,Monday,0,7,Birrarung Marr,64
+264129,"January 24, 2011 03:00:00 AM",2011,January,24,Monday,3,7,Birrarung Marr,11
+3428924,"November 26, 2020 06:00:00 PM",2020,November,26,Thursday,18,44,Tin Alley-Swanston St (West),58
+927938,"August 29, 2014 09:00:00 PM",2014,August,29,Friday,21,8,Webb Bridge,65
+4247676,"April 25, 2022 08:00:00 AM",2022,April,25,Monday,8,27,QV Market-Peel St,45
+353098,"August 31, 2011 06:00:00 AM",2011,August,31,Wednesday,6,5,Princes Bridge,293
+3749077,"June 26, 2021 01:00:00 AM",2021,June,26,Saturday,1,65,Swanston St - City Square,125
+2439135,"November 03, 2018 06:00:00 AM",2018,November,3,Saturday,6,51,QVM-Franklin St (North),23
+3678892,"May 07, 2021 07:00:00 PM",2021,May,7,Friday,19,55,Elizabeth St-La Trobe St (East),1563
+2840465,"September 25, 2019 05:00:00 PM",2019,September,25,Wednesday,17,6,Flinders Street Station Underpass,5208
+4116052,"January 14, 2022 03:00:00 AM",2022,January,14,Friday,3,49,QVM-Therry St (South),24
+467841,"May 29, 2012 01:00:00 AM",2012,May,29,Tuesday,1,15,State Library,47
+1158213,"June 03, 2015 12:00:00 AM",2015,June,3,Wednesday,0,39,Alfred Place,17
+862984,"June 06, 2014 02:00:00 AM",2014,June,6,Friday,2,2,Bourke Street Mall (South),33
+4282181,"May 25, 2022 12:00:00 AM",2022,May,25,Wednesday,0,3,Melbourne Central,191
+4175063,"February 28, 2022 10:00:00 PM",2022,February,28,Monday,22,71,Westwood Place,5
+2530845,"January 18, 2019 02:00:00 PM",2019,January,18,Friday,14,1,Bourke Street Mall (North),3138
+3639404,"April 11, 2021 05:00:00 AM",2021,April,11,Sunday,5,72,Flinders St-ACMI,14
+1327385,"November 27, 2015 02:00:00 PM",2015,November,27,Friday,14,22,Flinders St-Elizabeth St (East),2780
+3721284,"June 09, 2021 11:00:00 AM",2021,June,9,Wednesday,11,30,Lonsdale St (South),78
+3755923,"June 30, 2021 04:00:00 AM",2021,June,30,Wednesday,4,57,Bourke St Bridge,5
+2675778,"May 19, 2019 01:00:00 AM",2019,May,19,Sunday,1,1,Bourke Street Mall (North),142
+3739206,"June 20, 2021 04:00:00 AM",2021,June,20,Sunday,4,64,Royal Pde-Grattan St,2
+3019281,"February 08, 2020 05:00:00 PM",2020,February,8,Saturday,17,41,Flinders La-Swanston St (West),2851
+838621,"May 04, 2014 07:00:00 PM",2014,May,4,Sunday,19,21,Bourke St-Russell St (West),625
+4219543,"March 03, 2022 04:00:00 AM",2022,March,3,Thursday,4,64,Royal Pde - Grattan St,0
+3922786,"October 08, 2021 12:00:00 AM",2021,October,8,Friday,0,62,La Trobe St (North),5
+3194097,"June 13, 2020 04:00:00 PM",2020,June,13,Saturday,16,3,Melbourne Central,1550
+3487193,"January 03, 2021 03:00:00 PM",2021,January,3,Sunday,15,55,Elizabeth St-La Trobe St (East),1113
+2108715,"January 27, 2018 12:00:00 AM",2018,January,27,Saturday,0,29,St Kilda Rd-Alexandra Gardens,99
+2291594,"July 05, 2018 09:00:00 AM",2018,July,5,Thursday,9,7,Birrarung Marr,265
+4267517,"April 12, 2022 01:00:00 AM",2022,April,12,Tuesday,1,65,Swanston St - City Square,21
+1858599,"May 30, 2017 01:00:00 PM",2017,May,30,Tuesday,13,33,Flinders St-Spring St (West),389
+391359,"December 03, 2011 02:00:00 AM",2011,December,3,Saturday,2,6,Flinders Street Station Underpass,273
+3177715,"June 01, 2020 10:00:00 PM",2020,June,1,Monday,22,61,Swanston St - RMIT Building 14,54
+3648477,"April 16, 2021 11:00:00 PM",2021,April,16,Friday,23,8,Webb Bridge,67
+1563217,"July 20, 2016 04:00:00 AM",2016,July,20,Wednesday,4,38,Flinders St-Swanston St (West),97
+2517971,"January 07, 2019 06:00:00 PM",2019,January,7,Monday,18,23,Spencer St-Collins St (South),546
+432494,"March 08, 2012 06:00:00 AM",2012,March,8,Thursday,6,2,Bourke Street Mall (South),103
+3182661,"June 05, 2020 11:00:00 AM",2020,June,5,Friday,11,10,Victoria Point,89
+811014,"March 28, 2014 08:00:00 PM",2014,March,28,Friday,20,9,Southern Cross Station,200
+914415,"August 12, 2014 11:00:00 AM",2014,August,12,Tuesday,11,27,QV Market-Peel St,246
+3824912,"August 10, 2021 05:00:00 PM",2021,August,10,Tuesday,17,15,State Library,569
+1275380,"October 03, 2015 01:00:00 PM",2015,October,3,Saturday,13,25,Melbourne Convention Exhibition Centre,931
+3382456,"October 25, 2020 05:00:00 PM",2020,October,25,Sunday,17,58,Bourke St - Spencer St (North),151
+4422130,"August 24, 2022 04:00:00 AM",2022,August,24,Wednesday,4,53,Collins St (North),7
+674335,"September 20, 2013 06:00:00 PM",2013,September,20,Friday,18,19,Chinatown-Swanston St (North),1207
+3503840,"January 14, 2021 01:00:00 AM",2021,January,14,Thursday,1,58,Bourke St - Spencer St (North),36
+1728727,"January 08, 2017 03:00:00 PM",2017,January,8,Sunday,15,29,St Kilda Rd-Alexandra Gardens,1008
+1951122,"September 05, 2017 02:00:00 AM",2017,September,5,Tuesday,2,46,Pelham St (South),5
+2155400,"March 08, 2018 04:00:00 PM",2018,March,8,Thursday,16,53,Collins St (North),1635
+3921912,"October 07, 2021 12:00:00 PM",2021,October,7,Thursday,12,21,Bourke St-Russell St (West),255
+924927,"August 26, 2014 01:00:00 AM",2014,August,26,Tuesday,1,34,Flinders St-Spark La,2
+3118266,"April 20, 2020 07:00:00 PM",2020,April,20,Monday,19,22,Flinders St-Elizabeth St (East),523
+4031573,"December 04, 2021 02:00:00 AM",2021,December,4,Saturday,2,27,QV Market-Peel St,8
+1250733,"September 08, 2015 12:00:00 AM",2015,September,8,Tuesday,0,15,State Library,78
+3285769,"August 19, 2020 03:00:00 PM",2020,August,19,Wednesday,15,22,Flinders St-Elizabeth St (East),649
+1601920,"August 28, 2016 08:00:00 PM",2016,August,28,Sunday,20,23,Spencer St-Collins St (South),173
+2585171,"March 05, 2019 12:00:00 PM",2019,March,5,Tuesday,12,47,Melbourne Central-Elizabeth St (East),2144
+1579742,"August 05, 2016 03:00:00 PM",2016,August,5,Friday,15,20,Chinatown-Lt Bourke St (South),516
+3407694,"November 12, 2020 07:00:00 AM",2020,November,12,Thursday,7,4,Town Hall (West),226
+4326361,"June 15, 2022 08:00:00 PM",2022,June,15,Wednesday,20,59,Swanston St - RMIT Building 80,415
+3611947,"March 25, 2021 12:00:00 AM",2021,March,25,Thursday,0,5,Princes Bridge,57
+4257544,"April 16, 2022 12:00:00 PM",2022,April,16,Saturday,12,44,Tin Alley-Swanston St (West),51
+510756,"September 05, 2012 11:00:00 AM",2012,September,5,Wednesday,11,18,Collins Place (North),433
+1105712,"April 06, 2015 06:00:00 PM",2015,April,6,Monday,18,23,Spencer St-Collins St (South),239
+853480,"May 24, 2014 11:00:00 PM",2014,May,24,Saturday,23,26,QV Market-Elizabeth St (West),228
+97981,"December 24, 2009 02:00:00 AM",2009,December,24,Thursday,2,1,Bourke Street Mall (North),29
+77296,"November 06, 2009 04:00:00 AM",2009,November,6,Friday,4,16,Australia on Collins,9
+4454779,"August 25, 2022 01:00:00 PM",2022,August,25,Thursday,13,58,Bourke St - Spencer St (North),1000
+1182448,"June 27, 2015 03:00:00 PM",2015,June,27,Saturday,15,44,Tin Alley-Swanston St (West),77
+2271730,"June 18, 2018 07:00:00 AM",2018,June,18,Monday,7,37,Lygon St (East),30
+4145982,"February 14, 2022 05:00:00 AM",2022,February,14,Monday,5,11,Waterfront City,6
+1594076,"August 20, 2016 01:00:00 PM",2016,August,20,Saturday,13,4,Town Hall (West),3410
+1114141,"April 16, 2015 09:00:00 AM",2015,April,16,Thursday,9,39,Alfred Place,439
+2548419,"February 02, 2019 02:00:00 PM",2019,February,2,Saturday,14,15,State Library,1105
+231703,"November 03, 2010 03:00:00 PM",2010,November,3,Wednesday,15,17,Collins Place (South),697
+227217,"October 23, 2010 04:00:00 PM",2010,October,23,Saturday,16,1,Bourke Street Mall (North),2254
+1548361,"July 05, 2016 09:00:00 AM",2016,July,5,Tuesday,9,29,St Kilda Rd-Alexandra Gardens,158
+3875485,"September 10, 2021 12:00:00 AM",2021,September,10,Friday,0,36,Queen St (West),2
+3648264,"April 16, 2021 07:00:00 PM",2021,April,16,Friday,19,76,Macaulay Rd-Bellair St,73
+1893479,"July 08, 2017 04:00:00 AM",2017,July,8,Saturday,4,50,Faraday St-Lygon St (West),10
+3462174,"December 18, 2020 03:00:00 PM",2020,December,18,Friday,15,59,Swanston St - RMIT Building 80,576
+4202769,"March 11, 2022 07:00:00 AM",2022,March,11,Friday,7,30,Lonsdale St (South),61
+592753,"March 16, 2013 01:00:00 PM",2013,March,16,Saturday,13,6,Flinders Street Station Underpass,1254
+4400715,"July 19, 2022 10:00:00 PM",2022,July,19,Tuesday,22,41,Flinders La-Swanston St (West),2076
+3219379,"July 01, 2020 03:00:00 PM",2020,July,1,Wednesday,15,58,Bourke St - Spencer St (North),411
+4288396,"May 04, 2022 11:00:00 PM",2022,May,4,Wednesday,23,8,Webb Bridge,9
+3275754,"August 12, 2020 05:00:00 AM",2020,August,12,Wednesday,5,20,Chinatown-Lt Bourke St (South),6
+4415765,"July 28, 2022 11:00:00 PM",2022,July,28,Thursday,23,78,Harbour Esplanade (West) - Bike Path,6
+3025140,"February 13, 2020 12:00:00 AM",2020,February,13,Thursday,0,30,Lonsdale St (South),205
+4025979,"December 16, 2021 12:00:00 AM",2021,December,16,Thursday,0,25,Melbourne Convention Exhibition Centre,117
+186635,"July 17, 2010 08:00:00 AM",2010,July,17,Saturday,8,11,Waterfront City,28
+795452,"March 07, 2014 02:00:00 PM",2014,March,7,Friday,14,21,Bourke St-Russell St (West),847
+3489551,"January 05, 2021 03:00:00 AM",2021,January,5,Tuesday,3,31,Lygon St (West),16
+1034890,"January 14, 2015 07:00:00 PM",2015,January,14,Wednesday,19,17,Collins Place (South),319
+2382026,"September 17, 2018 04:00:00 PM",2018,September,17,Monday,16,39,Alfred Place,380
+3572650,"February 27, 2021 04:00:00 PM",2021,February,27,Saturday,16,47,Melbourne Central-Elizabeth St (East),1479
+3133147,"May 01, 2020 01:00:00 PM",2020,May,1,Friday,13,29,St Kilda Rd-Alexandra Gardens,53
+4107011,"January 05, 2022 10:00:00 AM",2022,January,5,Wednesday,10,40,Lonsdale St-Spring St (West),117
+2817826,"September 07, 2019 04:00:00 PM",2019,September,7,Saturday,16,48,QVM-Queen St (East),441
+3707859,"June 01, 2021 07:00:00 AM",2021,June,1,Tuesday,7,43,Monash Rd-Swanston St (West),22
+910420,"August 07, 2014 04:00:00 AM",2014,August,7,Thursday,4,34,Flinders St-Spark La,7
+2670730,"May 14, 2019 09:00:00 PM",2019,May,14,Tuesday,21,30,Lonsdale St (South),608
+4093870,"January 08, 2022 09:00:00 PM",2022,January,8,Saturday,21,12,New Quay,219
+564796,"January 10, 2013 12:00:00 PM",2013,January,10,Thursday,12,16,Australia on Collins,2356
+1170817,"June 15, 2015 08:00:00 PM",2015,June,15,Monday,20,13,Flagstaff Station,223
+367412,"October 05, 2011 09:00:00 AM",2011,October,5,Wednesday,9,12,New Quay,104
+3538709,"February 05, 2021 01:00:00 AM",2021,February,5,Friday,1,28,The Arts Centre,34
+2951548,"December 20, 2019 02:00:00 PM",2019,December,20,Friday,14,49,QVM-Therry St (South),155
+118137,"February 08, 2010 05:00:00 PM",2010,February,8,Monday,17,15,State Library,1450
+1773129,"February 26, 2017 03:00:00 PM",2017,February,26,Sunday,15,30,Lonsdale St (South),991
+2235880,"May 18, 2018 01:00:00 AM",2018,May,18,Friday,1,46,Pelham St (South),11
+706139,"November 06, 2013 08:00:00 AM",2013,November,6,Wednesday,8,14,Sandridge Bridge,1099
+4240439,"April 23, 2022 07:00:00 PM",2022,April,23,Saturday,19,10,Victoria Point,99
+742648,"December 28, 2013 01:00:00 AM",2013,December,28,Saturday,1,11,Waterfront City,31
+2491857,"December 16, 2018 10:00:00 PM",2018,December,16,Sunday,22,19,Chinatown-Swanston St (North),514
+1544396,"July 01, 2016 11:00:00 AM",2016,July,1,Friday,11,1,Bourke Street Mall (North),2444
+2779762,"August 08, 2019 10:00:00 PM",2019,August,8,Thursday,22,34,Flinders St-Spark La,32
+4473534,"September 06, 2022 01:00:00 AM",2022,September,6,Tuesday,1,66,State Library - New,36
+969449,"October 21, 2014 09:00:00 PM",2014,October,21,Tuesday,21,31,Lygon St (West),732
+1954294,"September 08, 2017 10:00:00 AM",2017,September,8,Friday,10,11,Waterfront City,18
+4369988,"June 28, 2022 01:00:00 PM",2022,June,28,Tuesday,13,77,Harbour Esplanade (West) - Ped Path,216
+2422203,"October 20, 2018 04:00:00 AM",2018,October,20,Saturday,4,46,Pelham St (South),9
+3196294,"June 15, 2020 05:00:00 AM",2020,June,15,Monday,5,34,Flinders St-Spark La,28
+255137,"January 02, 2011 02:00:00 AM",2011,January,2,Sunday,2,8,Webb Bridge,1
+1343508,"December 14, 2015 04:00:00 AM",2015,December,14,Monday,4,2,Bourke Street Mall (South),13
+2332055,"August 07, 2018 10:00:00 PM",2018,August,7,Tuesday,22,33,Flinders St-Spring St (West),59
+785743,"February 22, 2014 09:00:00 AM",2014,February,22,Saturday,9,27,QV Market-Peel St,279
+4516807,"September 30, 2022 10:00:00 AM",2022,September,30,Friday,10,87,Errol St (West),170
+4234960,"April 14, 2022 01:00:00 PM",2022,April,14,Thursday,13,2,Bourke Street Mall (South),1981
+1464392,"April 13, 2016 01:00:00 PM",2016,April,13,Wednesday,13,15,State Library,2223
+1598000,"August 24, 2016 05:00:00 PM",2016,August,24,Wednesday,17,4,Town Hall (West),3016
+1404504,"February 13, 2016 06:00:00 PM",2016,February,13,Saturday,18,23,Spencer St-Collins St (South),325
+1415897,"February 25, 2016 01:00:00 AM",2016,February,25,Thursday,1,34,Flinders St-Spark La,14
+341644,"August 03, 2011 04:00:00 AM",2011,August,3,Wednesday,4,9,Southern Cross Station,0
+1001341,"December 02, 2014 02:00:00 AM",2014,December,2,Tuesday,2,11,Waterfront City,0
+3072405,"March 18, 2020 09:00:00 AM",2020,March,18,Wednesday,9,29,St Kilda Rd-Alexandra Gardens,124
+853385,"May 24, 2014 08:00:00 PM",2014,May,24,Saturday,20,27,QV Market-Peel St,75
+1066503,"February 21, 2015 06:00:00 AM",2015,February,21,Saturday,6,30,Lonsdale St (South),53
+3453741,"December 13, 2020 05:00:00 AM",2020,December,13,Sunday,5,18,Collins Place (North),4
+1069466,"February 24, 2015 03:00:00 PM",2015,February,24,Tuesday,15,38,Flinders St-Swanston St (West),4514
+4023542,"December 07, 2021 11:00:00 AM",2021,December,7,Tuesday,11,12,New Quay,52
+2396393,"September 29, 2018 04:00:00 AM",2018,September,29,Saturday,4,54,Lincoln-Swanston (West),6
+4071898,"May 23, 2021 08:00:00 AM",2021,May,23,Sunday,8,9,Southern Cross Station,45
+3057891,"March 07, 2020 10:00:00 PM",2020,March,7,Saturday,22,7,Birrarung Marr,3803
+2041729,"November 28, 2017 02:00:00 PM",2017,November,28,Tuesday,14,4,Town Hall (West),3111
+2842408,"September 27, 2019 07:00:00 AM",2019,September,27,Friday,7,43,Monash Rd-Swanston St (West),18
+4227149,"March 18, 2022 02:00:00 AM",2022,March,18,Friday,2,78,Harbour Esplanade (West) - Bike Path,1
+2005192,"October 26, 2017 07:00:00 AM",2017,October,26,Thursday,7,43,Monash Rd-Swanston St (West),109
+3914664,"October 03, 2021 04:00:00 AM",2021,October,3,Sunday,4,59,Swanston St - RMIT Building 80,3
+3869837,"September 06, 2021 03:00:00 PM",2021,September,6,Monday,15,62,La Trobe St (North),72
+786064,"February 22, 2014 08:00:00 PM",2014,February,22,Saturday,20,18,Collins Place (North),428
+342622,"August 05, 2011 01:00:00 PM",2011,August,5,Friday,13,18,Collins Place (North),803
+4480125,"September 10, 2022 04:00:00 PM",2022,September,10,Saturday,16,25,Melbourne Convention Exhibition Centre,2595
+2206429,"April 22, 2018 04:00:00 AM",2018,April,22,Sunday,4,46,Pelham St (South),2
+208225,"September 07, 2010 12:00:00 AM",2010,September,7,Tuesday,0,16,Australia on Collins,2
+1229804,"August 16, 2015 09:00:00 PM",2015,August,16,Sunday,21,37,Lygon St (East),174
+2340697,"August 15, 2018 12:00:00 AM",2018,August,15,Wednesday,0,1,Bourke Street Mall (North),78
+2481558,"December 08, 2018 12:00:00 PM",2018,December,8,Saturday,12,22,Flinders St-Elizabeth St (East),2130
+639668,"July 05, 2013 01:00:00 AM",2013,July,5,Friday,1,2,Bourke Street Mall (South),45
+2286873,"July 01, 2018 10:00:00 AM",2018,July,1,Sunday,10,40,Lonsdale St-Spring St (West),222
+1797078,"March 24, 2017 12:00:00 PM",2017,March,24,Friday,12,10,Victoria Point,649
+4128447,"January 03, 2022 02:00:00 PM",2022,January,3,Monday,14,73,Bourke St - Spencer St (South),96
+2495124,"December 19, 2018 02:00:00 PM",2018,December,19,Wednesday,14,23,Spencer St-Collins St (South),730
+4340804,"June 09, 2022 02:00:00 PM",2022,June,9,Thursday,14,27,QV Market-Peel St,156
+1439050,"March 19, 2016 02:00:00 AM",2016,March,19,Saturday,2,30,Lonsdale St (South),332
+931474,"September 03, 2014 08:00:00 AM",2014,September,3,Wednesday,8,13,Flagstaff Station,4863
+2461935,"November 22, 2018 04:00:00 AM",2018,November,22,Thursday,4,53,Collins St (North),6
+2914700,"November 22, 2019 11:00:00 AM",2019,November,22,Friday,11,43,Monash Rd-Swanston St (West),268
+528974,"October 18, 2012 11:00:00 AM",2012,October,18,Thursday,11,7,Birrarung Marr,2657
+2397027,"September 29, 2018 05:00:00 PM",2018,September,29,Saturday,17,8,Webb Bridge,149
+264744,"January 25, 2011 03:00:00 PM",2011,January,25,Tuesday,15,10,Victoria Point,253
+3664784,"April 27, 2021 02:00:00 AM",2021,April,27,Tuesday,2,35,Southbank,15
+1414093,"February 23, 2016 06:00:00 AM",2016,February,23,Tuesday,6,37,Lygon St (East),21
+3310570,"September 06, 2020 04:00:00 AM",2020,September,6,Sunday,4,23,Spencer St-Collins St (South),10
+4422532,"August 09, 2022 10:00:00 PM",2022,August,9,Tuesday,22,2,Bourke Street Mall (South),122
+3630577,"April 05, 2021 05:00:00 PM",2021,April,5,Monday,17,65,Swanston St - City Square,513
+2331282,"August 07, 2018 07:00:00 AM",2018,August,7,Tuesday,7,24,Spencer St-Collins St (North),2434
+4466154,"August 31, 2022 12:00:00 PM",2022,August,31,Wednesday,12,79,Flinders St (South),722

@@ -1,16 +1,17 @@
 import matplotlib
-matplotlib.use('TkAgg')
-# matplotlib.use('macosx')
 import matplotlib.pyplot as plt
-# %matplotlib inline
-import os
-os.environ['TF_CPP_MIN_LOG_LEVEL'] = '2'  # فقط خطاهای جدی نمایش داده بشه
-# import tensorflow as tf
+%matplotlib inline
 import pandas as pd
 import numpy as np
-# import os
+import os
+os.environ['TF_CPP_MIN_LOG_LEVEL'] = '2'  # فقط خطاهای جدی نمایش داده بشه
+import tensorflow as tf
+
 # if os.environ.get("MPLBACKEND", "").startswith("module://"):
 #     os.environ["MPLBACKEND"] = "TkAgg"
+
+# matplotlib.use('TkAgg')
+# matplotlib.use('macosx')
 import scipy.stats as st
 from sklearn.model_selection import train_test_split,cross_val_score
 import seaborn as sns
@@ -20,17 +21,15 @@ from sklearn.pipeline import Pipeline
 from sklearn.linear_model import LinearRegression,Ridge
 from sklearn.ensemble import RandomForestRegressor,GradientBoostingRegressor
 from sklearn.metrics import mean_absolute_error, mean_squared_error, r2_score
-import xgboost as xgb
 import joblib
-
+import xgboost as xgb
+from sklearn.preprocessing import MinMaxScaler
+from tensorflow.keras.models import Sequential
+from tensorflow.keras.layers import LSTM, Dense,Dropout
+from tensorflow.keras.callbacks import EarlyStopping
 
 # dt = pd.read_csv("count.csv")
 dt = pd.read_csv("sample.csv")
-# sample_dt = dt.sample(n=500, random_state=42)
-# sample_dt.to_csv("test2.csv", index=False)
-# print("done")
-# dt = pd.read_csv("test2.csv")
-
 # print(dt.head())
 # print(dt.info())
 # print(dt.describe())
@@ -58,17 +57,14 @@ dt['Day_num'] = dt['Day'].map(day_map)
 # ----------------------------------------------------------------------------------------------------------------------
 X =dt[['Year','Month_num','Mdate','Day_num','Time']]
 Y = dt['Hourly_Counts']
-
-
 # print(X)
 # print(Y)
 
-# sample_dt = dt.sample(n=2000, random_state=42)
-# sample_dt.to_csv("sample.csv", index=False)
+sample_dt = dt.sample(n=2000, random_state=42)
+sample_dt.to_csv("sample.csv", index=False)
 # ----------------------------------------------------------------------------------------------------------------------
 X_train, X_test, Y_train, Y_test = train_test_split(
     X, Y, test_size=0.2, random_state=42)
-
 
 
 quantitative = [f for f in X.columns if X.dtypes[f] != 'object']
@@ -103,8 +99,6 @@ params = st.lognorm.fit(Y)
 x = np.linspace(Y.min(), Y.max(), 100)
 plt.plot(x, st.lognorm.pdf(x, *params), color="red", lw=2)
 plt.show()
-
-
 # ----------------------------------------------------------------------------------------------------------------------
 #  p-value < 0.05 → داده نرمال نیست
 #  p-value >= 0.05 → داده نرمال هست
@@ -241,75 +235,57 @@ plt.show()
 # joblib.dump(scaler, "models/lstm_scaler.pkl")
 
 
-# df = pd.read_csv("sample.csv")
-# df.columns = df.columns.str.strip()
+df = pd.read_csv("sample.csv")
+df.columns = df.columns.str.strip()
 
 # تبدیل Month و Day به عددی
 month_map = {'January':1,'February':2,'March':3,'April':4,'May':5,'June':6,
              'July':7,'August':8,'September':9,'October':10,'November':11,'December':12}
-
 day_map = {'Monday':1,'Tuesday':2,'Wednesday':3,'Thursday':4,'Friday':5,'Saturday':6,'Sunday':7}
 
-dt['Month_num'] = dt['Month'].map(month_map)
-dt['Day_num'] = dt['Day'].map(day_map)
+df['Month_num'] = df['Month'].map(month_map)
+df['Day_num'] = df['Day'].map(day_map)
 
 # مرتب کردن بر اساس زمان
-dt = dt.sort_values(by="Time")
+df = df.sort_values(by="Time")
 
-features = ['Hourly_Counts', 'Month_num', 'Day_num', 'Time']
-data = dt[features].values
+# ویژگی‌های ورودی
+features = ['Hourly_Counts', 'Month_num', 'Day_num', 'Time']  # اضافه کردن Hour، Month_num، Day_num
+data = df[features].values
 
-# نرمال‌سازی
+# 2️⃣ نرمال‌سازی
 scaler = MinMaxScaler()
 data_scaled = scaler.fit_transform(data)
 
-# ساخت sequence
+# 3️⃣ ساخت sequence
 X, y = [], []
-n_steps = 168  # 24 ساعت گذشته برای پیش‌بینی 1 ساعت آینده
+n_steps = 48  # 48 ساعت گذشته برای پیش‌بینی 1 ساعت آینده
 for i in range(n_steps, len(data_scaled)):
     X.append(data_scaled[i-n_steps:i])
     y.append(data_scaled[i, 0])  # پیش‌بینی Hourly_Counts
 
 X, y = np.array(X), np.array(y)
 
-# مدل LSTM
-from keras.models import Sequential
-from keras.layers import LSTM, Dense, Dropout
-from keras.callbacks import EarlyStopping
-
+# 4️⃣ مدل LSTM
 model = Sequential()
-# یعنی یک لایه با 128 سلول حافظه (neuron)
-# شکل ورودی رو مشخص می‌کنهinput shape
-# اینجا انتظار میره داده ۳بعدی باشه
-# باعث می‌شه خروجی این لایه کل دنباله رو بده (نه فقط آخرین گام زمانی) <--return_sequences=True
-model.add(LSTM(256, return_sequences=True, input_shape=(X.shape[1], X.shape[2])))
-# یعنی در حین آموزش، 30٪ از نورون‌ها به صورت تصادفی غیرفعال می‌شن تا مدل overfit نشه
-# (یادگیری بیش‌ازحد روی داده‌ی تمرین)
-model.add(Dropout(0.3))
-# یعنی یه لایه LSTM دیگه با 64 نورون که فقط آخرین خروجی زمانی رو برمی‌گردونه
-model.add(LSTM(64))
-# یعنی خروجی مدل یه عدده
+model.add(LSTM(64, return_sequences=True, input_shape=(X.shape[1], X.shape[2])))
+model.add(Dropout(0.2))
+model.add(LSTM(32))
 model.add(Dense(1))
 model.compile(optimizer='adam', loss='mse')
 
-
-#  Early stopping برای جلوگیری از overfitting
-# یعنی اگر مدل بعد از ۵ epoch پشت سر هم بهتر نشد، آموزش قطع بشه.
+# 5️⃣ Early stopping برای جلوگیری از overfitting
 es = EarlyStopping(monitor='loss', patience=5, restore_best_weights=True)
 
-#  آموزش مدل
-# حداکثر ۳۰ بار روی کل داده‌ها آموزش می‌بینه
-# در هر مرحله ۱۶ نمونه پردازش می‌کنه
-# از early stopping استفاده می‌کنه
-# verbose=1: نمایش نوار پیشرفت در هنگام آموزش
-model.fit(X, y, epochs=30, batch_size=20, callbacks=[es], verbose=1)
+# 6️⃣ آموزش مدل
+model.fit(X, y, epochs=30, batch_size=16, callbacks=[es], verbose=1)
 
- # پیش‌بینی
+# 7️⃣ پیش‌بینی
 y_pred = model.predict(X)
 y_pred_inv = scaler.inverse_transform(np.hstack([y_pred, np.zeros((len(y_pred), data.shape[1]-1))]))[:,0]
 y_inv = scaler.inverse_transform(np.hstack([y.reshape(-1,1), np.zeros((len(y), data.shape[1]-1))]))[:,0]
 
-#  ارزیابی
+# 8️⃣ ارزیابی
 r2 = r2_score(y_inv, y_pred_inv)
 mae = mean_absolute_error(y_inv, y_pred_inv)
 rmse = np.sqrt(mean_squared_error(y_inv, y_pred_inv))
@@ -321,8 +297,6 @@ print(f"RMSE: {rmse:.3f}")
 model.save("ped_count/lstm_model.keras")
 joblib.dump(scaler, "ped_count/lstm_scaler.pkl")
 print("Model and scaler saved successfully!")
-
-
 
 # -----------------------------------------------make models------------------------------------------------------------
 # joblib.dump(scaler, "ped_count/scaler.pkl")
